@@ -1,2 +1,0 @@
-trap 14 err 5 on cpu 0 eip 0xffffffff addr 0xffffffff--kill proc
-TEST PASSED
