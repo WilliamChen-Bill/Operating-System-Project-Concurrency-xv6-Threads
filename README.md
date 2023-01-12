@@ -1,5 +1,5 @@
 # Operating System Project: Concurrnecy xv6 Threads
-## Kernal Threads
+## Kernel Threads
 * In this project, you'll be adding real kernel threads to xv6.
 * Specifically, you'll do three things. First, you'll define a new system call to create a kernel thread, called `clone()`, as well as one to wait for a thread called `join()`. Then, you'll use `clone()` to build a little thread library, with a `thread_create()` call and `lock_acquire()` and `lock_release()` functions. That's it! And now, for some details.
 
